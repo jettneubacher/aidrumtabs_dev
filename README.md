@@ -1,4 +1,4 @@
-###This is my source code for loading/processing my data and training my model.###
+### This is my source code for loading/processing my data and training my model
 
 **dataset.py** loads and processes the audio files\
 **train.py trains** my model\
